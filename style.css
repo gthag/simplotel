@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
 body{
     background: linear-gradient(to right, rgb(240, 211, 115) 20%, rgb(238, 145, 145) 80%);
     padding:0px;
